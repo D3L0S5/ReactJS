@@ -1,0 +1,16 @@
+.nav{
+    background-color: black;
+    height: 10%;
+}
+.toolbar-nav{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+
+}
+
+.botones-nav{
+    color: blue
+}
